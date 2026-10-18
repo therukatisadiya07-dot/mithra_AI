@@ -1,0 +1,8 @@
+{
+  "name": "Shiftwise - Student Part-Time Job Marketplace",
+  "description": "Connecting students with verified employers for flexible part-time opportunities across India under Mithra_AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
